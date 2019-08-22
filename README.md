@@ -1,4 +1,4 @@
-# navcigationsignature-zurfaro
+# navigationsignature-zurfaro
 
 Navigation signature.
 A very inginius website useful for sales and blogging.
